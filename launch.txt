@@ -1,0 +1,48 @@
+cd "/Volumes/RAID-2/AUTORIVARISTUDIOASSO Dropbox/Enzio Isaia/CASA/CALZAMAGLIA/teatro-booking-2"; node server.js
+
+cd "/Users/enzioisaia/AUTORIVARISTUDIOASSO Dropbox/Enzio Isaia/CASA/CALZAMAGLIA/teatro-booking-2"; node server.js
+
+
+Configurazione Mac Studio
+
+npm list --depth=0
+
+
+├── @emailjs/nodejs@5.0.2
+├── body-parser@1.20.3
+├── cors@2.8.5
+├── dotenv@16.4.5
+├── express@4.21.2
+├── fs@0.0.1-security
+├── jsdom@20.0.3
+├── jspdf-autotable@3.8.2
+├── jspdf@2.5.1
+├── multer@1.4.5-lts.1
+├── node-fetch@3.3.2
+├── nodemailer@6.10.1
+├── pdfkit@0.16.0
+├── qrcode@1.5.4
+├── socket.io-client@4.8.1
+├── socket.io@4.8.1
+└── sqlite3@5.1.7
+
+
+Mac mini
+
+├── @emailjs/nodejs@5.0.2
+├── body-parser@1.20.3
+├── cors@2.8.5
+├── dotenv@16.4.5
+├── express@4.21.2
+├── fs@0.0.1-security
+├── jsdom@20.0.3
+├── jspdf-autotable@3.8.2
+├── jspdf@2.5.1
+├── multer@1.4.5-lts.1
+├── node-fetch@3.3.2
+├── nodemailer@6.10.1
+├── pdfkit@0.16.0
+├── qrcode@1.5.4
+├── socket.io-client@4.8.1
+├── socket.io@4.8.1
+└── sqlite3@5.1.7
