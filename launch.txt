@@ -2,6 +2,10 @@ cd "/Volumes/RAID-2/AUTORIVARISTUDIOASSO Dropbox/Enzio Isaia/CASA/CALZAMAGLIA/te
 
 cd "/Users/enzioisaia/AUTORIVARISTUDIOASSO Dropbox/Enzio Isaia/CASA/CALZAMAGLIA/teatro-booking-2"; node server.js
 
+git add .
+git commit -m "Spiegazione dei file modificati"
+git push origin main
+
 
 Configurazione Mac Studio
 
